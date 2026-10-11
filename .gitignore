@@ -1,0 +1,19 @@
+/project/knees
+Knee X-ray data from MedicalExpert-I.zip
+# Model weights
+*.keras
+*.h5
+*.pt
+*.pth
+project/weights/
+
+# Media & archives (>100MB)
+*.mp4
+*.pptx
+*.zip
+
+# Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+"@
